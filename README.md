@@ -12,9 +12,9 @@
 **Project Members:**
 - [Evan C. Navarro](https://www.linkedin.com/in/EvanCNavarro/) — _(**Project Manager**, Design, Front-End Development)_
 - [Jacques "JJ" Parizeau](https://www.linkedin.com/in/jjparizeau/) — _(**Front-End Development**, Student Sponsor, Design)_
-- [Tu Le](https://www.linkedin.com/in/connect-tu-le/) — _(**Back-End Development**, Team Lead)_
-- [Richard Morand](https://www.linkedin.com/in/richard-m-7a5235208/) — _(**Back-End Development**, Database)_
-- [Pedro Roman](https://www.linkedin.com/in/pedro-roman-profile/) — _(**Database**, Back-End Development)_
+- [Tu Le](https://www.linkedin.com/in/connect-tu-le/) — _(**Back-End Development**, Project Manager)_
+- [Pedro Roman](https://www.linkedin.com/in/pedro-roman-profile/) — _(**Back-End Development**, Database)_
+- [Richard Morand](https://www.linkedin.com/in/richard-m-7a5235208/) — _(**Database**, Back-End Development)_
 
 <hr>
 <br>
