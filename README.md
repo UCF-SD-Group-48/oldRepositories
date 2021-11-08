@@ -18,6 +18,3 @@
 
 <hr>
 <br>
-
-**Internal Links:**
-> 📊 [Status Presentation](https://docs.google.com/presentation/d/17Tcs-fB2vwZI404Q56aORcoHyJOCFGPJsRxs7kBg35g/edit#slide=id.gf328e52941_0_0) _(Google Slides) — October 19th, 2021 (10/19/2021) @ 2PM EST_
