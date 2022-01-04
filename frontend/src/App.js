@@ -1,30 +1,34 @@
 import './App.css';
-import Login from './Pages/Login/Login';
+import React from 'react';
+// import ReactDOM from 'react-dom';
+import './index';
+import Fire from '../../backend/Firestore/database';
+import { render } from 'react-dom';
+ 
+class App extends React.Component{
 
-// Importing Firebase database dependencies
-import firebase from 'firebase/app';
-import firestore from 'firebase/firestore';
-import auth from 'firebase/auth';
+  state = {
+    users: {}
+  }
+  
+  componentDidMount(){
+    firebase = new Fire((error, user) => {
+      if(error){
+       return alert("Something went wrong")
+       // throw error;
+      }
+    });
+  }
 
-//Importing the firebase hooks
-import {useAuthState} from 'react-firebase-hooks/auth';
-import {useCollectionData} from 'react-firebase-hooks/firestore';
-
-firebase.initializeApp({ //Initializing the firebase application
-
-})
-
-const auth = firebase.auth();
-const firestore = firebase.firestore();
-
-
-
-function App() {
-  return (
-    <>
-      <Login/>
-    </>
-  );
+  render(){
+    return(
+      <>
+  
+      </>
+    )
+  }
 }
+
+
 
 export default App;
