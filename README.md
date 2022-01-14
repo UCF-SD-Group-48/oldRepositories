@@ -1,6 +1,6 @@
 # :speech_balloon: Family Chat
 
-### :information_source: A mobile/web application for family members _(developed using React Native & Firebase)_; pairing interactive features alongside standard messaging functionality, for an improved group chat experience.
+### :information_source: A mobile application for family members _(developed using React Native & Firebase)_; pairing interactive features alongside standard messaging functionality, for an improved group chat experience.
 
 →  https://www.familychat.app
 
